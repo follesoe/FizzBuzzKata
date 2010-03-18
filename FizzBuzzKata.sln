@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzKata", "FizzBuzzKata\FizzBuzzKata.csproj", "{9868A75D-D44D-4138-9F29-B197D08D8BF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzKata.Test", "FizzBuzzKata.Test\FizzBuzzKata.Test.csproj", "{D25FF08F-9092-4BA9-80E0-2B09CA504889}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9868A75D-D44D-4138-9F29-B197D08D8BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9868A75D-D44D-4138-9F29-B197D08D8BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9868A75D-D44D-4138-9F29-B197D08D8BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9868A75D-D44D-4138-9F29-B197D08D8BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D25FF08F-9092-4BA9-80E0-2B09CA504889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D25FF08F-9092-4BA9-80E0-2B09CA504889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D25FF08F-9092-4BA9-80E0-2B09CA504889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D25FF08F-9092-4BA9-80E0-2B09CA504889}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
